@@ -20,7 +20,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Re-descubriendo la hibridacion: FACEAPP
 
-En el ámbito de la tecnología y la cultura digital, la hibridación se ha convertido en un concepto fundamental para entender la intersección entre lo real y lo virtual. La popular aplicación móvil FaceApp, ha desatado un debate sobre la hibridación digital y la identidad. En este apartado exploraremos el caso híbrido de FaceApp y su relación con las "gafas Manovich", analizando su impacto en la sociedad.
+En el ámbito de la tecnología y la cultura digital, la hibridación se ha convertido en un concepto fundamental para entender entre lo real y lo virtual. La popular aplicación móvil FaceApp, ha desatado un debate sobre la hibridación digital y la identidad. En este apartado exploraremos el caso híbrido de FaceApp y su relación con las "gafas Manovich", analizando su impacto en la sociedad.
 
 FaceApp es conocida por su capacidad de transformar fotos y brindar a los usuarios una visión alternativa de sí mismos. Sus filtros de envejecimiento, cambios de género y otros efectos faciales se basan en algoritmos de inteligencia artificial que generan imágenes híbridas que combinan elementos reales y virtuales. Estos cambios hacen referencia al concepto de "anteojos Manovich", un concepto propuesto por Lev Manovich para describir la forma en que la tecnología digital nos permite ver el mundo desde múltiples perspectivas.
 
