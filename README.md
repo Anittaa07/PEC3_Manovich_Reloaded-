@@ -32,7 +32,13 @@ El caso de la hibridación de FaceApp en relación con las "gafas de Manovich" m
 
 ## Re-descubriendo la hibridacion: ART COLORING BOOK
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+El caso d ehibridación de Art Coloring Book, se trata de una aplicación de realidad aumentada que permite a los usuarios colorear dibujos en 2D y luego verlos en 3D a través de la pantalla de su dispositivo móvil. Esta aplicación utiliza tecnología de realidad aumentada para superponer imágenes digitales sobre el mundo real, lo que crea una experiencia interactiva para los usuarios.
+
+Por otro lado, "las Gafas de Manovich" hace referencia a un concepto creado por Lev Manovich, un mundo de medios y cultura digital. La tecnología digital ha creado una nueva forma de ver el mundo, viendo la realidad a través de una lente digital, dijo Manovich. En otras palabras, la tecnología digital ha cambiado la forma en que vemos y experimentamos la vida.
+
+En este caso, podemos ver cómo la aplicación utiliza la tecnología de realidad aumentada para crear una experiencia de visualización híbrida que combina elementos del mundo real con elementos digitales. Los usuarios pueden ver sus dibujos coloreados en 2D en su dispositivo móvil, pero luego pueden verlos en 3D superpuestos en el mundo real a través de la cámara de su dispositivo. Esto crea una experiencia de visualización híbrida que combina elementos del mundo real con elementos digitales, lo que refleja la idea de las "gafas de Manovich".
+
+En conclusión, el caso de hibridación de Art Coloring Book y las "gafas de Manovich" son ejemplos de cómo la tecnología digital está cambiando la forma en que vemos y experimentamos el mundo que nos rodea. La tecnología de realidad aumentada utilizada por dicha plataforma crea una experiencia de visualización híbrida que combina elementos del mundo real con elementos digitales, lo que refleja la idea de las "gafas de Manovich". Este tipo de tecnología está transformando la forma en que interactuamos con el mundo y cómo nos relacionamos con la tecnología digital.
 
 
 ### Referencias y Bibliografía
