@@ -32,7 +32,7 @@ El caso de la hibridación de FaceApp en relación con las "gafas de Manovich" m
 
 ## Re-descubriendo la hibridacion: ART COLORING BOOK
 
-El caso d ehibridación de Art Coloring Book, se trata de una aplicación de realidad aumentada que permite a los usuarios colorear dibujos en 2D y luego verlos en 3D a través de la pantalla de su dispositivo móvil. Esta aplicación utiliza tecnología de realidad aumentada para superponer imágenes digitales sobre el mundo real, lo que crea una experiencia interactiva para los usuarios.
+El caso de hibridación de Art Coloring Book, se trata de una aplicación de realidad aumentada que permite a los usuarios colorear dibujos en 2D y luego verlos en 3D a través de la pantalla de su dispositivo móvil. Esta aplicación utiliza tecnología de realidad aumentada para superponer imágenes digitales sobre el mundo real, lo que crea una experiencia interactiva para los usuarios.
 
 Por otro lado, "las Gafas de Manovich" hace referencia a un concepto creado por Lev Manovich, un mundo de medios y cultura digital. La tecnología digital ha creado una nueva forma de ver el mundo, viendo la realidad a través de una lente digital, dijo Manovich. En otras palabras, la tecnología digital ha cambiado la forma en que vemos y experimentamos la vida.
 
@@ -45,6 +45,7 @@ En conclusión, el caso de hibridación de Art Coloring Book y las "gafas de Man
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 * [FaceApp, la aplicación que vulnera tu privacidad](https://ayudaleyprotecciondatos.es/2020/06/15/faceapp-privacidad/#Peligro_de_Faceapp_para_la_privacidad)
+* [Art Coloring Book](https://www.marketing-branding.com/libro-para-colorear-online-google-art-coloring-book/#:~:text=Libro%20para%20colorear%20online.,arte%20que%20ha%20seleccionado%20Google.)
 
 
 
@@ -65,4 +66,4 @@ En conclusión, el caso de hibridación de Art Coloring Book y las "gafas de Man
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia. Imágenes CC BY [Freepik](https://www.freepik.es/foto-gratis/mujer-tiro-medio-gafas-vr_42088952.htm#query=cultura%20digital&position=5&from_view=keyword&track=ais)
+Licencia: Material Creative Commons desarrollado bajo licencia. Imágenes CC BY SA [Freepik](https://www.freepik.es/foto-gratis/mujer-tiro-medio-gafas-vr_42088952.htm#query=cultura%20digital&position=5&from_view=keyword&track=ais)
